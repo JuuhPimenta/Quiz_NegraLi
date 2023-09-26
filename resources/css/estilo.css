@@ -1,0 +1,9 @@
+.imagem{
+    text-align: center;
+}
+
+img{
+    margin: auto;
+    display: block;
+    max-width: 100%;
+}
